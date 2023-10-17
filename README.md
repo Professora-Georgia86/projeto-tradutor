@@ -1,2 +1,2 @@
 # projeto-tradutor
-Professora Georgia
+Professora Georgia 
